@@ -1,0 +1,25 @@
+.header {
+  font-weight: bold;
+  color: slateblue;
+  text-align: center;
+}
+
+ul.a {
+  list-style-type: circle;
+  font-size: 20px;
+}
+
+ul.a li {
+ padding: 15px;
+}
+
+body {
+  background-color:beige;
+}
+
+.center {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
